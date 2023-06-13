@@ -137,4 +137,33 @@ body {
     margin-right: auto;
     width: 50%;
     height: 70%;
+    
 }
+a:hover {
+    color: rgb(29, 119, 66);
+}
+p:hover {
+    color: rgb(128, 128, 209);
+}
+h3:hover {
+    color: rgb(208, 112, 44);
+
+}
+h1:hover {
+    color: rgb(29, 119, 66);
+}
+.form {
+    text-align: left;
+    color: #4a4747;
+    font-size: xx-large;
+    display: flex;
+    box-sizing: border-box;
+    margin-left: 100px;
+    margin-top: 50px;
+    
+
+}
+form:hover {
+    color: #a54b4b;
+}
+
